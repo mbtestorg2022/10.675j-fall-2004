@@ -10,32 +10,320 @@ Szabo, Attila, and Neil S. Ostlund. _Modern_ _Quantum Chemistry: Introduction t
 
 A bibliography of [recommended](#rec_read) reference texts are listed below the table.
 
-| lec # | TOPICS | readings |
-| --- | --- | --- |
-| 1 | Introduction, Textbook and Notes, Many Body Schrödinger Equation, Density Functional Theory, Examples and Inspiration |  |
-| 2 | Electronic Spin, Spin Orbitals, Molecular Orbital Theory, Valence Bond Theory | Review quantum mechanics, Solution of hydrogen atom. |
-| 3 | Hartree-Fock Theory, Matrix Manipulations |  |
-| 4 | Mathematical Underpinnings, Dirac Notation, G03 Calculations | Read SO, pp. 1-30. |
-| 5 | Electronic Classroom Tutorial |  |
-| 6 | Solution of Hartree-Fock Equations, Variational Principle, Mean Field Theory |  |
-| 7 | Solution of H-F Equations (cont.), Meaning of Eigenvalues, Basis Sets Introduction | SO, pp. 108-122, 131-149. |
-| 8 | Gaussian Basis Sets |  |
-| 9 | Correlation, CI, MP Perturbation Theories | SO, pp. 60-64, 320-326, 350-353; study graphs 375-376; skim SO chapter 4. |
-| 10 | Density Functional Theory (DFT) - Introduction | Read handout on DFT.  {{< br >}}  {{< br >}}DFT paper 1: Hohenberg, P., and W. Kohn. "Inhomogeneous Electron Gas." _Physical Review_ 136, no. 3B (9 November, 1964): B864-B871.  {{< br >}}  {{< br >}}DFT paper 2: Kohn, W., and L. J. Sham. "Self-Consistent Equations Including Exchange and Correlation Effects." _Physical Review_ 140, no. 4A – 15 (November 1965): A1133-A1138. |
-| 11 | DFT: Solution of Kohn-Sham Equations and Exchange-Correlation Functionals |  |
-| 12 | Coupled-Cluster Theories, QCISD, G1, G2 | Skim SO, chapter 5. |
-| 13 | G1, G2 (cont.), Comparison, NCSA Teams, Projects | Read handouts  {{< br >}}  {{< br >}}G2 Assessment: Curtiss, Larry A., Krishnan Raghavachari, Paul C. Redfern, and John A. Pople. "Assessment of Gaussian-2 and Density Functional Theories for the Computation of Enthalpies of Formation." _The Journal of Chemical Physics_ 106, no. 3 (15 January 1997): 1063-1079.  {{< br >}}  {{< br >}}G3 Theory: Curtiss, Larry A., Krishnan Raghavachari, Paul C. Redfern, Vitaly Rassolov, and John A. Pople. "Gaussian-3 (G3) Theory for Molecules Containing First and Second-row Atoms." _The Journal of Chemical Physics_ 109, no. 18 (8 November 1998): 7764-7776. |
-| 14 | The Plane-wave Pseudopotential Method (PWPP) |  |
-| 15 | PWPP (cont.), Introduction to Classical Molecular Dynamics (MD) |  |
-| 16 | Car-Parrinello Molecular Dynamics - Method | Original Car-Parrinello Paper: Car, R., and M. Parrinello. "Unified Approach for Molecular Dynamics and Density-Functional Theory." _Physical Review Letter_ 55, no. 22–25 (November 1985): 2471-2474. |
-| 17 | Running the Car-Parrinello Code | Review molecular dynamics from lecture 15 and 16. |
-| 18 | Car-Parrinello Molecular Dynamics - Applications |  |
-| 19 | Embedding, Reaction Field Methods, Solvation, Combined QM/MM |  |
-| 20 | Exploring Complex Free Energy Landscapes - Reactivity |  |
-| 21 | Computing Reaction Rate Constants |  |
-| 22 | Student Final Project Presentations I |  |
-| 23 | Student Final Project Presentations II |  |
-| 24 | Design of Selective, Sulfur Resistant, Oxidation Automotive Catalysts (Presented by Course Teaching Assistant) |  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+readings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Textbook and Notes, Many Body Schrödinger Equation, Density Functional Theory, Examples and Inspiration
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic Spin, Spin Orbitals, Molecular Orbital Theory, Valence Bond Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Review quantum mechanics, Solution of hydrogen atom.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Hartree-Fock Theory, Matrix Manipulations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Mathematical Underpinnings, Dirac Notation, G03 Calculations
+{{< tdclose >}}
+{{< tdopen >}}
+Read SO, pp. 1-30.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic Classroom Tutorial
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Solution of Hartree-Fock Equations, Variational Principle, Mean Field Theory
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Solution of H-F Equations (cont.), Meaning of Eigenvalues, Basis Sets Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+SO, pp. 108-122, 131-149.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Gaussian Basis Sets
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Correlation, CI, MP Perturbation Theories
+{{< tdclose >}}
+{{< tdopen >}}
+SO, pp. 60-64, 320-326, 350-353; study graphs 375-376; skim SO chapter 4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Density Functional Theory (DFT) - Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Read handout on DFT.  
+  
+DFT paper 1: Hohenberg, P., and W. Kohn. "Inhomogeneous Electron Gas." _Physical Review_ 136, no. 3B (9 November, 1964): B864-B871.  
+  
+DFT paper 2: Kohn, W., and L. J. Sham. "Self-Consistent Equations Including Exchange and Correlation Effects." _Physical Review_ 140, no. 4A – 15 (November 1965): A1133-A1138.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+DFT: Solution of Kohn-Sham Equations and Exchange-Correlation Functionals
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Coupled-Cluster Theories, QCISD, G1, G2
+{{< tdclose >}}
+{{< tdopen >}}
+Skim SO, chapter 5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+G1, G2 (cont.), Comparison, NCSA Teams, Projects
+{{< tdclose >}}
+{{< tdopen >}}
+Read handouts  
+  
+G2 Assessment: Curtiss, Larry A., Krishnan Raghavachari, Paul C. Redfern, and John A. Pople. "Assessment of Gaussian-2 and Density Functional Theories for the Computation of Enthalpies of Formation." _The Journal of Chemical Physics_ 106, no. 3 (15 January 1997): 1063-1079.  
+  
+G3 Theory: Curtiss, Larry A., Krishnan Raghavachari, Paul C. Redfern, Vitaly Rassolov, and John A. Pople. "Gaussian-3 (G3) Theory for Molecules Containing First and Second-row Atoms." _The Journal of Chemical Physics_ 109, no. 18 (8 November 1998): 7764-7776.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The Plane-wave Pseudopotential Method (PWPP)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+PWPP (cont.), Introduction to Classical Molecular Dynamics (MD)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Car-Parrinello Molecular Dynamics - Method
+{{< tdclose >}}
+{{< tdopen >}}
+Original Car-Parrinello Paper: Car, R., and M. Parrinello. "Unified Approach for Molecular Dynamics and Density-Functional Theory." _Physical Review Letter_ 55, no. 22–25 (November 1985): 2471-2474.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Running the Car-Parrinello Code
+{{< tdclose >}}
+{{< tdopen >}}
+Review molecular dynamics from lecture 15 and 16.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Car-Parrinello Molecular Dynamics - Applications
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Embedding, Reaction Field Methods, Solvation, Combined QM/MM
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Exploring Complex Free Energy Landscapes - Reactivity
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Computing Reaction Rate Constants
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Student Final Project Presentations I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Student Final Project Presentations II
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Design of Selective, Sulfur Resistant, Oxidation Automotive Catalysts (Presented by Course Teaching Assistant)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "rec_read" >}}{{< /anchor >}}Recommended Readings
 ------------------------------------------------------------

@@ -61,8 +61,45 @@ There are five problem sets in this course. Each student is required to complete
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 30% |
-| Participation | 20% |
-| Final Project | 50%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
