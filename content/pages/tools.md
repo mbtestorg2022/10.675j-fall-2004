@@ -21,4 +21,4 @@ Class notes on Basics of Running G03 on a PC ([PDF]({{< baseurl >}}/resources/g0
 
 You can get extensive information, in addition to instructions on how to download [CPMD](http://www.cpmd.org/) and the online manual.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[CPMD Manual](https://www.cpmd.org/wordpress/CPMD/getFile.php?file=manual.pdf)
+[CPMD Manual](https://www.cpmd.org/wordpress/CPMD/getFile.php?file=manual.pdf)
