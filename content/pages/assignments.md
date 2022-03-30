@@ -42,9 +42,9 @@ Homework 3 ([PDF]({{< baseurl >}}/resources/ps3))
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/ps3_solution))  
   
-Problem 2 Step 1 ([TXT](/courses/chemical-engineering/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/assignments/Prob2step1.txt))  
-Problem 2 Step 2 ([TXT](/courses/chemical-engineering/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/assignments/Prob2step2.txt))  
-Problem 2 Step 3 ([TXT](/courses/chemical-engineering/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/assignments/Prob2step3.txt))
+Problem 2 Step 1 ({{% resource_link "6a1a5ac5-1cef-c538-9ed6-5daa566c7236" "TXT" %}})  
+Problem 2 Step 2 ({{% resource_link "dc66c896-367d-857a-f33c-8712117dde41" "TXT" %}})  
+Problem 2 Step 3 ({{% resource_link "2f8f3401-8143-9041-398d-27b8c24c3226" "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +61,7 @@ Homework 4 ([PDF]({{< baseurl >}}/resources/ps4))
 {{< tdopen >}}
 Homework 5 ([PDF]({{< baseurl >}}/resources/ps5))  
   
-CPMD Input File ([TXT](/courses/chemical-engineering/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/assignments/CPMD_input_file.txt))
+CPMD Input File ({{% resource_link "e49db848-3bdb-3fa5-f74b-848d2449115e" "TXT" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/ps5_solution))
